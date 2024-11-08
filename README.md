@@ -3,9 +3,13 @@
 * Must have compatible `node version, cocoapods` installed 
 
 from the root directory run:
+npm install                   
 
-```cd path/to/your/project/frontend
-npm install                    # Install dependencies if needed
+```cd BitcoinMiningCalculator/
+cd ios
+pod install
+cd ..
+
 npx react-native start         # Start Metro bundler
 npx react-native run-ios       # Run the app on iOS
 
