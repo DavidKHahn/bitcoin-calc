@@ -15,6 +15,8 @@ cd ..
 npx react-native start         # Start Metro bundler
 npx react-native run-ios       # Run the app on iOS
 
+or can run directly either ipad or iphone options with cmds below:
+
 (IPAD)
 npx react-native run-ios --simulator="iPad Pro (12.9-inch)"
 (iPHONE X)
