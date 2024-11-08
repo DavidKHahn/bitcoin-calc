@@ -3,9 +3,11 @@
 * Must have compatible `node version, cocoapods` installed 
 
 from the root directory run:
+
+```
 npm install                   
 
-```cd BitcoinMiningCalculator/
+cd BitcoinMiningCalculator/
 cd ios
 pod install
 cd ..
