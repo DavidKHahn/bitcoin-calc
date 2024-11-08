@@ -14,3 +14,4 @@ npx react-native run-ios --simulator="iPad Pro (12.9-inch)"
 (iPHONE X)
 npx react-native run-ios --simulator="iPhone X"
 ```
+![image](https://github.com/user-attachments/assets/bce00150-35ce-41e6-96d8-443220ad6994)
