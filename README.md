@@ -1,4 +1,9 @@
 # Running BTC Mining Calculator
+
+(Note: Hi Matias,
+The newer one has `import { calculateMining } from `./api/apiService`;` and also in package.json file: added `axios`. 
+I was restructuring my folder structure from the basic template to use `src/` and this caused a small issue when pushing the final changes to the repository.)
+
 ### Requirements
 * Must have compatible `node version, cocoapods` installed 
 
