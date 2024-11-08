@@ -1,4 +1,4 @@
-# Running Frontend
+# Running BTC Mining Calculator
 ### Requirements
 * Must have compatible `node version, cocoapods` installed 
 
